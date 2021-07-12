@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marco-Jardim872
 - 👀 I’m interested in  JS
-- 🌱 I’m currently learning  canvas-JS
+- 🌱 I’m currently learning  React
   - 💞️ I’m looking to collaborate on  Html, css,  JS     
 - 📫 How to reach me  jardim.mac@gmail.com
 
